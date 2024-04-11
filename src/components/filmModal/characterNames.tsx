@@ -1,4 +1,4 @@
-import { getPerson } from '@/app/api/swapi';
+import { getPerson } from '@/api/swapi';
 
 interface Props {
   film: Film;

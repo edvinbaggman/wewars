@@ -1,5 +1,5 @@
 import styles from './page.module.css';
-import { getFilms } from './api/swapi';
+import { getFilms } from '../api/swapi';
 import FilmCard from '@/components/filmCard/filmCard';
 import FilmModal from '@/components/filmModal/filmModal';
 
