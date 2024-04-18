@@ -1,7 +1,5 @@
 # WeWars
 
-Frontend Assignment for Weapp
-
 ## Description
 
 A small app for Star Wars fans, using Swapi, the open API for 'All the Star Wars data you've ever wanted'.
